@@ -4,7 +4,7 @@
 
 # Nineveh North Palace, Room M Panel 17
 
-![](Others/Screenshots/ladders.png)
+![](Other/Screenshots/ladders.png)
 
 This repository contains source data to recreate a 3D model from the British Museum's Assyrian galleries and currently on display in the Ahurbanipal exhibition.. The file structure is as follows:
 
